@@ -1,0 +1,57 @@
+{
+  "auth": {
+    "email": "Email address",
+    "password": "Password",
+    "login": "Sign in",
+    "forgot": "Forgot your password?",
+    "tagline": "Connect your business\nwith a single tap",
+    "powered": "Powered by Risca Studio"
+  },
+  "home": {
+    "greeting": "Hello",
+    "subtitle": "Your NFC cards",
+    "active": "Active",
+    "unconfigured": "Not configured",
+    "noUrl": "No URL configured"
+  },
+  "config": {
+    "title": "Configure card",
+    "subtitle": "Assign a URL to your NFC card",
+    "nfcPrompt": "Bring your NFC card closer",
+    "nfcSub": "(available in native build)",
+    "labelField": "Card name",
+    "labelPlaceholder": "e.g. North Branch Card",
+    "urlField": "Target URL",
+    "urlPlaceholder": "https://yoursite.com",
+    "save": "Save configuration",
+    "savedTitle": "Saved",
+    "savedMessage": "Card configured successfully"
+  },
+  "profile": {
+    "title": "Profile",
+    "role": "Role",
+    "roleValue": "Client",
+    "activeCards": "Active cards",
+    "plan": "Plan",
+    "planValue": "Basic",
+    "logout": "Sign out"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "language": "Language",
+    "english": "English",
+    "spanish": "Spanish",
+    "saved": "Saved",
+    "savedMessage": "Settings updated"
+  },
+  "tabs": {
+    "cards": "Cards",
+    "configure": "Configure",
+    "profile": "Profile"
+  }
+}

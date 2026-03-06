@@ -1,0 +1,57 @@
+{
+  "auth": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "login": "Iniciar sesión",
+    "forgot": "¿Olvidaste tu contraseña?",
+    "tagline": "Conecta tu negocio\ncon un solo toque",
+    "powered": "Powered by Risca Studio"
+  },
+  "home": {
+    "greeting": "Hola",
+    "subtitle": "Tus tarjetas NFC",
+    "active": "Activa",
+    "unconfigured": "Sin config",
+    "noUrl": "Sin URL configurada"
+  },
+  "config": {
+    "title": "Configurar tarjeta",
+    "subtitle": "Asigna una URL a tu tarjeta NFC",
+    "nfcPrompt": "Acerca tu tarjeta NFC",
+    "nfcSub": "(disponible en build nativo)",
+    "labelField": "Nombre de la tarjeta",
+    "labelPlaceholder": "Ej. Tarjeta Sucursal Norte",
+    "urlField": "URL destino",
+    "urlPlaceholder": "https://tusitio.com",
+    "save": "Guardar configuración",
+    "savedTitle": "Guardado",
+    "savedMessage": "Tarjeta configurada correctamente"
+  },
+  "profile": {
+    "title": "Perfil",
+    "role": "Rol",
+    "roleValue": "Cliente",
+    "activeCards": "Tarjetas activas",
+    "plan": "Plan",
+    "planValue": "Básico",
+    "logout": "Cerrar sesión"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "appearance": "Apariencia",
+    "theme": "Tema",
+    "dark": "Oscuro",
+    "light": "Claro",
+    "system": "Sistema",
+    "language": "Idioma",
+    "english": "Inglés",
+    "spanish": "Español",
+    "saved": "Guardado",
+    "savedMessage": "Configuración actualizada"
+  },
+  "tabs": {
+    "cards": "Tarjetas",
+    "configure": "Configurar",
+    "profile": "Perfil"
+  }
+}
